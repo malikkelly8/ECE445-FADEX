@@ -1,5 +1,6 @@
 # FadeX - Automated Nicotine Tapering System (ECE 445)
-**Team Members:** * Malik Kelly (Algorithm Development & App Integration)
+**Team Members:** 
+* Malik Kelly (Algorithm Development & App Integration)
 * Justin Leith (Project Management & Mechanical Design)
 * Ian Zentner (MCU Logic & Hardware Integration)
 
