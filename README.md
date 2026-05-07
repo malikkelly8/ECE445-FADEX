@@ -49,7 +49,7 @@ V_diluent = V_total - V_concentrate
 /Code/              Firmware sketches, tests, and integration code
 /Images/            Diagrams, presentation graphics, screenshots, and verification visuals
 /Notebook_Entries/  Chronological lab notebook entries and engineering logs
-/Hardware/          PCB schematics, pinout references, and hardware design files
+/PCB/          PCB schematics, pinout references, and hardware design files
 ```
 
 Some folders may contain uploaded final report materials, figures, or archived versions of earlier designs.
