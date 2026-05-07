@@ -50,9 +50,6 @@ V_diluent = V_total - V_concentrate
 /Images/            Diagrams, presentation graphics, screenshots, and verification visuals
 /Notebook_Entries/  Chronological lab notebook entries and engineering logs
 /Hardware/          PCB schematics, pinout references, and hardware design files
-/Software/          ESP32 firmware, app/Blynk code, and communication tests
-/CAD/               Mechanical design files and housing concepts
-/Datasheets/        Component datasheets and reference documents
 ```
 
 Some folders may contain uploaded final report materials, figures, or archived versions of earlier designs.
