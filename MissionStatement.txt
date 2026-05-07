@@ -1,1 +1,7 @@
-This is our Mission Statement
+FadeX Mission Statement
+
+FadeX exists to explore a safer, more adaptive path for nicotine tapering by combining user behavior data, embedded control, and feedback-based fluid delivery. Traditional cessation tools often separate nicotine reduction from the habitual puff routine, while manual tapering forces users into large concentration jumps that can increase withdrawal and relapse risk. FadeX addresses this gap by using puff activity, user check-ins, and a controlled mixing system to calculate gradual concentration changes that are easier for the user to follow.
+
+Our mission is to demonstrate that nicotine reduction can be automated, personalized, and safety-aware. The FadeX prototype uses a homebase ESP32 controller, handheld puff input, pump-based liquid delivery, load-cell mass verification, and optical concentration sensing with a safe surrogate solution. This system is designed to show how future cessation devices could reduce nicotine exposure over time while preserving behavioral continuity, improving transparency through a user interface, and maintaining firmware-level safety limits.
+
+FadeX is not intended to encourage vaping or recreational nicotine use. Its purpose is to support cessation-focused engineering by showing how adaptive algorithms, sensor feedback, and embedded safeguards can work together to guide users toward lower dependence.
